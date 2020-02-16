@@ -1,3 +1,2 @@
 # laravel
-my class project on laravel
-i am interseted on :laravel.
+my repository on github
